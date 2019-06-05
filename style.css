@@ -1,0 +1,51 @@
+body {
+    background-color: #360DAA;
+   font-family: 'helvetica', sans-serif, serif; 
+ }
+ 
+ .header { 
+   color: black;
+ }
+ 
+ .box {
+    background-color:white;
+   width: 40%;
+ border-radius: 5px;
+   padding: 20px 20px;
+ }
+ 
+ 
+ .textOne {
+   font-weight: bold;
+ }
+ 
+ .textTwo {
+   font-style: italic;
+   font-weight: lighter;
+ }
+ 
+ 
+ .inputStyle {
+   background-color: #85FF90;
+   background-image: linear-gradient(to left, green, white);
+   /*ANCHURA*/
+   width: 40%;
+   /*PADDING: AREA ALREDEDOR*/
+   padding: 20px 20px;
+   /* BORDER-RADIUS PARA REDONDEAR ESQUINAS */
+   border-radius: 10px;
+ }
+ 
+ 
+ .textThree {
+   font-style: italic;
+   font-weight: condensed;
+ }
+ 
+ .footer-style {
+   background-color: grey;
+   width: 100%;
+   padding: 5px 0px;
+   margin: 12px 0;
+ }
+ 
